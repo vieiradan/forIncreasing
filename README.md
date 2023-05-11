@@ -1,2 +1,3 @@
 # forIncreasing
-Displaying values using for from 0 to the given number
+Displaying values using for,
+from 0 to the given number
